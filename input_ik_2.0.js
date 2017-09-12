@@ -1,4 +1,4 @@
-
+//by Pietro Chirio for HotBlack Robotics//
 
 var cmdMotor = new ROSLIB.Topic({
   ros : ros,
